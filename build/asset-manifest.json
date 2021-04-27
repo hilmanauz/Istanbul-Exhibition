@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73fa5547.chunk.css",
+    "main.js": "/static/js/main.b864df7c.chunk.js",
+    "main.js.map": "/static/js/main.b864df7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98b5b375.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98b5b375.js.map",
+    "static/js/2.f51eae9e.chunk.js": "/static/js/2.f51eae9e.chunk.js",
+    "static/js/2.f51eae9e.chunk.js.map": "/static/js/2.f51eae9e.chunk.js.map",
+    "static/js/3.8e5b063b.chunk.js": "/static/js/3.8e5b063b.chunk.js",
+    "static/js/3.8e5b063b.chunk.js.map": "/static/js/3.8e5b063b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.73fa5547.chunk.css.map": "/static/css/main.73fa5547.chunk.css.map",
+    "static/js/2.f51eae9e.chunk.js.LICENSE.txt": "/static/js/2.f51eae9e.chunk.js.LICENSE.txt",
+    "static/media/heart-solid.0991864b.svg": "/static/media/heart-solid.0991864b.svg",
+    "static/media/heart.27cf625b.svg": "/static/media/heart.27cf625b.svg",
+    "static/media/suit-heart-fill.10b288c5.svg": "/static/media/suit-heart-fill.10b288c5.svg",
+    "static/media/suit-heart.a22b8344.svg": "/static/media/suit-heart.a22b8344.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b5b375.js",
+    "static/js/2.f51eae9e.chunk.js",
+    "static/css/main.73fa5547.chunk.css",
+    "static/js/main.b864df7c.chunk.js"
+  ]
+}
